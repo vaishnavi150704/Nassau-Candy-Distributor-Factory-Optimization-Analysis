@@ -1,0 +1,31 @@
+Product Name,Existing Factory,Recommended Factory,Expected_Lead_Time,Lead_Time_Reduction_Pct
+Wonka Bar - Nutty Crunch Surprise,Lot's O' Nuts,Secret Factory,4.306581050181128,3.7298109712740857
+Wonka Bar - Nutty Crunch Surprise,Lot's O' Nuts,The Other Factory,4.3557145125421926,2.6314715567780964
+Wonka Bar - Fudge Mallows,Lot's O' Nuts,Secret Factory,4.298209838897792,4.650179723027725
+Wonka Bar - Fudge Mallows,Lot's O' Nuts,The Other Factory,4.346504419486906,3.5788314752407775
+Wonka Bar -Scrumdiddlyumptious,Lot's O' Nuts,Secret Factory,4.324474115091546,4.2345816098721345
+Wonka Bar -Scrumdiddlyumptious,Lot's O' Nuts,The Other Factory,4.375134146336462,3.1127159312464494
+Wonka Bar - Milk Chocolate,Wicked Choccy's,Secret Factory,4.288713706654891,8.009143567469117
+Wonka Bar - Milk Chocolate,Wicked Choccy's,The Other Factory,4.341270166253291,6.881832662566227
+Wonka Bar - Triple Dazzle Caramel,Wicked Choccy's,Secret Factory,4.335672869557273,8.283314385741333
+Wonka Bar - Triple Dazzle Caramel,Wicked Choccy's,The Other Factory,4.377610715279616,7.3961625347650495
+Laffy Taffy,Sugar Shack,Secret Factory,4.052789300281215,13.77766927297035
+Laffy Taffy,Sugar Shack,The Other Factory,4.10380891261006,12.692236608736529
+SweeTARTS,Sugar Shack,Secret Factory,3.8575701525928054,12.706271548574255
+SweeTARTS,Sugar Shack,The Other Factory,3.9388552400617356,10.866855006040625
+Nerds,Sugar Shack,Secret Factory,3.9012706996429833,12.824356419880992
+Nerds,Sugar Shack,The Other Factory,3.99041328060473,10.832425466090918
+Fun Dip,Sugar Shack,Secret Factory,2.5800543464926444,7.307043079187091
+Fun Dip,Sugar Shack,The Other Factory,2.6170826067352695,5.976738182242517
+Fizzy Lifting Drinks,Sugar Shack,Secret Factory,4.17764926043434,10.20330196318925
+Fizzy Lifting Drinks,Sugar Shack,The Other Factory,4.268653656601812,8.247203264318783
+Everlasting Gobstopper,Secret Factory,The Other Factory,4.311451046205305,-0.361151893693739
+Everlasting Gobstopper,Secret Factory,Lot's O' Nuts,4.425399115203622,-3.0136137535584058
+Hair Toffee,The Other Factory,Lot's O' Nuts,4.485022737947162,2.4126415829092513
+Hair Toffee,The Other Factory,Secret Factory,4.577602099565001,0.39825372534383774
+Lickable Wallpaper,Secret Factory,The Other Factory,4.49531689259544,-1.8908682537873922
+Lickable Wallpaper,Secret Factory,Lot's O' Nuts,4.641777422662249,-5.210543135439847
+Wonka Gum,Secret Factory,The Other Factory,4.192348152385872,-1.0096370188359431
+Wonka Gum,Secret Factory,Wicked Choccy's,4.464466303049022,-7.565999855514733
+Kazookles,The Other Factory,Secret Factory,4.323577698164106,0.036203735589444064
+Kazookles,The Other Factory,Wicked Choccy's,4.566399817757622,-5.577994177829719
